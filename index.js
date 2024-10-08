@@ -7,5 +7,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Example app listening on port 32 1 ${port}`);
+  console.log(`Example app listening on port 1 1 ${port}`);
 });
